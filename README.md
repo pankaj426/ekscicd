@@ -6,7 +6,7 @@ This Project build_script directory contains build related script, check buildsp
 Deployment related scripts are in deployment_scripts directory, check appspec.yml file. 
 
 
-This is a node.js project same, but change config as per your project requirement 
+###This is a node.js project same, but change config as per your project requirement 
 
 
 In codebuild.yml file in post build phase, line:
