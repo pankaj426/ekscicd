@@ -5,7 +5,7 @@ const config = require('config')
 console.log(config);
 
 app.get('/', (req, res) => {
-  res.send('Eks pipeline')
+  res.send('Eks pipeline is over now')
 })
 
 app.get('/status', (req, res) => {
