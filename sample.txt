@@ -1,4 +1,4 @@
-Learn how to make 2x Faster Docker Build in AWS Cloud using AWS CodeBuild Cache system
+Learn howe 2x Faster Docker Build in AWS Cloud using AWS CodeBuild Cache system
 Build Cache is so important part and many miss the point
 1) Process time reduce by nearly up to 90%
 2) Don't compile which is already compiled
